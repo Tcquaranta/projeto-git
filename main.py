@@ -1,3 +1,4 @@
 print("Hello, World!")
-print("Primeira modicação")
-print("terceira modificação")
+print("Primeira modificação")
+print("Segunda modificação")
+print("Terceira modificação")
